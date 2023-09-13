@@ -1,9 +1,1 @@
-{
-  "auth": {
-    "httpClient": "axios",
-    "redirectAuth": "/account",
-    "redirectGuest": "/",
-    "loginUrl": "/auth/login",
-    "userUrl": "/auth/user"
-  }
-}
+{}

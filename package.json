@@ -26,7 +26,6 @@
     "eslint-plugin-vue": "^9.0.0",
     "postcss": "^8.4.14",
     "prettier": "^2.5.1",
-    "quasar-app-extension-auth": "^1.0.1",
     "workbox-build": "^6.6.0",
     "workbox-cacheable-response": "^6.6.0",
     "workbox-core": "^6.6.0",
